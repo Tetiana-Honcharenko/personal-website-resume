@@ -18,10 +18,6 @@ Dies ist ein einfaches Webprojekt, das ich mit **HTML** und **CSS** erstellt hab
 - Navigation
 - Eigene Inhalte und Design
 
-## 📸 Screenshots
-
-*Füge Screenshots deiner Webseite oder des Codes hinzu*
-
 ## 🌍 Live-Demo
 
 ➡️ (https://moonlit-gecko-418cf8.netlify.app/)
